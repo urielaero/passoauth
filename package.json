@@ -1,0 +1,31 @@
+{
+  "name": "passoauth",
+  "version": "0.0.1",
+  "description": "Wrapper passport OAuth",
+  "main": "./lib/Passoauth",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urielaero/passoauth.git"
+  },
+  "keywords": [
+    "passport",
+    "connect",
+    "auth",
+    "authentication",
+    "oauth",
+    "auth2"
+  ],
+  "author": "Antony Uriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urielaero/passoauth/issues"
+  },
+  "dependencies": {
+    "passport": "^0.2.0",
+    "passport-oauth": "^1.0.0",
+    "util": "^0.10.3"
+  }
+}
