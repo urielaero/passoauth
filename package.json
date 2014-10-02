@@ -1,6 +1,6 @@
 {
   "name": "passoauth",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Wrapper passport OAuth",
   "main": "./lib/Passoauth",
   "scripts": {
